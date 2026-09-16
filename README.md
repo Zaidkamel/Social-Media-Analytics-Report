@@ -224,7 +224,7 @@ The deep-dive page, built to identify *why* performance looks the way it does:
 | File | Contents |
 |---|---|
 | [`data/social_media_dataset.csv`](data/social_media_dataset.csv) | The raw 450-post dataset |
-| [`data/data dictionary.md`](data/data dictionary.md) | Column-level field definitions |
+| [`data/data.dictionary.md`](data/data.dictionary.md) | Column-level field definitions |
 | [`docs/Business_Problem.pdf`](docs/Business_Problem.pdf) | The stakeholder brief that scoped this project |
 | [`docs/DAX_Measures_Reference_Guide.pdf`](docs/DAX_Measures_Reference_Guide.pdf) | Full formula and explanation for all 37 DAX measures |
 | [`docs/social_media_executive_report.pdf`](docs/social_media_executive_report.pdf) | The strategic insight memo summarizing findings and recommendations |
